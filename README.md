@@ -28,3 +28,9 @@ This is a web application that makes it easy for people to find and rent propert
 6. Receive email alerts when new properties are listed (TBD)<br>
 
 ### Go to the [RentAPlace](https://sites.google.com/myuwc.ac.za/rentaplace/home) website to learn more about the project.
+
+#### First DemoVideo:
+
+https://github.com/seanny244/Rental-Properties-Management-System/assets/141329309/a77bd95c-12a9-4638-9b1d-9f32bb8dc988
+
+
