@@ -33,4 +33,7 @@ This is a web application that makes it easy for people to find and rent propert
 
 https://github.com/seanny244/Rental-Properties-Management-System/assets/141329309/a77bd95c-12a9-4638-9b1d-9f32bb8dc988
 
+### Second DemoVideo:
+
+https://github.com/seanny244/Rental-Properties-Management-System/assets/141329309/3f5e8ddc-5d6b-45bd-af86-a6ba56d97748
 
